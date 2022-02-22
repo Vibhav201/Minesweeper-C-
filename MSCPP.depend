@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1605765306 source:c:\users\skseh\desktop\code\rosetta\mscpp\main.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<string>
+
+1606377359 source:c:\users\skseh\desktop\code\mini-project\mscpp\main.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<string>
+
+1606377360 source:d:\new folder\code\mini-project\mscpp\main.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<string>
+
+1608349937 source:d:\code\mini-project\mscpp\main.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<string>
+
+1608802258 source:d:\data store\projects and code\mini-project\mscpp\main.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<string>
+
+1608802260 source:d:\storage\my data\projects and code\mini-project\mscpp\main.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<string>
+
